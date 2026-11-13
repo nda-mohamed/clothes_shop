@@ -55,14 +55,14 @@ To maintain Clean Code principles and avoid UI duplication across screens, the f
 
 2. **Install dependencies:**
    ```bash
-flutter pub get
+   flutter pub get
 
 ```
 
 
 3. **Run the application:**
 ```bash
-flutter run
+   flutter run
 
 ```
 
