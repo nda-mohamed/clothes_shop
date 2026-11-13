@@ -52,6 +52,7 @@ To maintain Clean Code principles and avoid UI duplication across screens, the f
 
 ```
 
+
 2. **Install dependencies:**
 ```bash
 flutter pub get
