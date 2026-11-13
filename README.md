@@ -61,7 +61,7 @@ To maintain Clean Code principles and avoid UI duplication across screens, the f
 
 
 3. **Run the application:**
-```bash
+   ```bash
    flutter run
 
 ```
