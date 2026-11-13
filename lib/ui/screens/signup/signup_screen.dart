@@ -43,7 +43,7 @@ class SignupScreen extends StatelessWidget {
               text1: 'Already have an account?',
               text2: 'Log in',
               onTap: () {
-                Navigator.of(context).pushNamed(AppRoutes.SignupScreen.name);
+                Navigator.of(context).pushNamed(AppRoutes.LoginScreen.name);
               },
             ),
           ],
